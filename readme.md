@@ -1,4 +1,4 @@
-#Rag from Scratch
+# Rag from Scratch
 
 - Embedd without OpenAI API Model Used Clauderag
 
@@ -15,7 +15,7 @@
 
 Idea: A great deal of work has focused on query structuring, the process of text-to-DSL where DSL is a domain specific language required to interact with a given database. This converts user questions into structured queries. Below are links that dive into text-to-SQL/Cypher, and the below video overviews query structuring for vectorstores using function calling.
 
--focuses on some useful tricks for indexing full documents.
+- focuses on some useful tricks for indexing full documents.
 
 Problem: Many RAG approaches focus on splitting documents into chunks and returning some number upon retrieval for the LLM. But chunk size and chunk number can be brittle parameters that many user find difficult to set; both can significantly affect results if they do not contain all context to answer a question.
 
