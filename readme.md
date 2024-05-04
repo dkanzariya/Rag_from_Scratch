@@ -1,6 +1,6 @@
 # Rag from Scratch
 
-- Embedd without OpenAI API Model Used Clauderag
+- Embedd without OpenAI API Model Using Claude API
 
 - LLMs are a powerful new platform, but they are not always trained on data that is relevant for our tasks. This is where retrieval augmented generation (or RAG) comes in: RAG is a general methodology for connecting LLMs with external data sources such as private or recent data. It allows LLMs to use external data in generation of their output. This notobook build up an understanding of RAG from scratch, starting with the basics of indexing, retrieval, and generation. It will build up to more advanced techniques to address edge cases or challenges in RAG.
 
